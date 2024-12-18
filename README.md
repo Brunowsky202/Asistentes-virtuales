@@ -2,12 +2,12 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Descriptions](#project-descriptions)
-   1. [Zbigniew Milko Project](#zbigniew-milko-project-ai-for-web-development)
-   2. [Juan Da Silva and Jesús Durán Project](#juan-da-silva-and-jesús-durán-project-ai-for-document-creation)
-   3. [Rodrigo Rodríguez Project](#rodrigo-rodríguez-project-ai-for-pinterest-image-search)
-   4. [Simón Gómez Project](#simón-gómez-project-ai-for-story-creation)
-   5. [Vincenzo Palladino and Augusto Anselmetti Project](#vincenzo-palladino-and-augusto-anselmetti-project-ai-for-youtube-video-search-and-download)
-   6. [Joseph Nicholls Project](#joseph-nicholls-project-ai-for-powerpoint-presentations)
+   1. [Zbigniew Milko Project](#1-zbigniew-milko-project-ai-for-web-development)
+   2. [Juan Da Silva and Jesús Durán Project](#2-juan-da-silva-and-jesús-durán-project-ai-for-document-creation)
+   3. [Rodrigo Rodríguez Project](#3-rodrigo-rodríguez-project-ai-for-pinterest-image-search)
+   4. [Simón Gómez Project](#4-simón-gómez-project-ai-for-story-creation)
+   5. [Vincenzo Palladino and Augusto Anselmetti Project](#5-vincenzo-palladino-and-augusto-anselmetti-project-ai-for-youtube-video-search-and-download)
+   6. [Joseph Nicholls Project](#6-joseph-nicholls-project-ai-for-powerpoint-presentations)
 3. [Technologies Used](#technologies-used)
 4. [Packages Used](#packages-used)
 5. [Goals and Learning Outcomes](#goals-and-learning-outcomes)
@@ -19,7 +19,7 @@ This project is a collaborative effort developed with students in the Adakdemy c
 Each project demonstrates how AI can enhance productivity and creativity in various domains. Below is a detailed description of each project.
 
 ---
-
+## Project Descriptions
 ### **1. Zbigniew Milko Project: AI for Web Development**
 **Description:** This AI assistant helps users create complete web pages using Bootstrap. Once the web page is generated, the assistant opens the project in Visual Studio Code and previews it in the browser for easy review and customization.
 
