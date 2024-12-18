@@ -1,4 +1,4 @@
-# README: AI Assistant Family Project
+# AI Assistant Family Project
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Descriptions](#project-descriptions)
